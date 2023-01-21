@@ -1,7 +1,7 @@
-body {
-    min-height: 75rem;
+.font {
+    font-family: 'Quicksand', sans-serif;
 }
-
+/* 
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -51,4 +51,4 @@ body {
     text-align: center;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
-  }
+  } */
